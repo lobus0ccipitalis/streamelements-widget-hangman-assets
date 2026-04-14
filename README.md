@@ -1,2 +1,1 @@
-# -streamelements-widget-hangman-assets
-Assets für Hangman Minispiel, zugeschnitten auf mein OBS-Layout
+Assets gezeichnet von [Princess_Abby_Lee](https://x.com/DatAbbyLee)
